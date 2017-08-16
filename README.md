@@ -1,6 +1,6 @@
 # NETWORK-PYHTON
-Pitonla Network Otomasyonu
-Test1
+#Pitonla Network Otomasyonu
+#Test1
 import os
 import argparse
 import paramiko
